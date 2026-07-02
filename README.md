@@ -2,12 +2,15 @@
 
 A document assistant built using the LangChain framework.
 
+## Product Demo:
+[▶ Watch the demo](assets/product-dempo.mp4)
+
 ## Setup
 
 Install dependencies using uv:
 
 ```bash
-uv add black isort langchain langchain-community langchain-core langchain-openai langchain-pinecone python-dotenv langchain_tavily
+uv add black isort langchain langchain-community langchain-core langchain-openai langchain-pinecone python-dotenv langchain_tavily streamlit
 ```
 
 ## Document Ingestion 
@@ -40,3 +43,6 @@ Logs
 ![](assets/demo1f.png)
 ![](assets/demo1g.png)
 
+
+### Run Streamlit UI app locally 
+uv run streamlit run main.py
