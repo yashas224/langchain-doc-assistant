@@ -3,7 +3,7 @@
 A document assistant built using the LangChain framework.
 
 ## Product Demo:
-[▶ Watch the demo](assets/product-dempo.mp4)
+[▶ Watch the demo](assets/product-demo.mp4)
 
 ## Setup
 
