@@ -3,7 +3,7 @@
 A document assistant built using the LangChain framework.
 
 ## Product Demo:
-[![Watch Demo](assets/demo-thumbnail.png)](https://github.com/yashas224/langchain-doc-assistant/releases/download/product-demo-video/product-demo.mp4)
+[![Watch Demo](assets/product-demo.gif)](https://github.com/yashas224/langchain-doc-assistant/releases/download/product-demo-video/product-demo.mp4)
 
 ▶ Click the image above to watch the demo.
 
